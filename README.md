@@ -121,3 +121,7 @@ feat: complete BMW M4 Competition 3D showcase
 - 7 BMW official color swatches with live material change  
 - Animated hero, specs grid, ticker, tech strip
 - Responsive layout, deployed to Vercel
+
+## License
+
+MIT © 2026 Gaurav Arya. See [LICENSE](LICENSE).
